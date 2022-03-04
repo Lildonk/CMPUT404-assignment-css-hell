@@ -32,7 +32,11 @@ In 1.html, I deleted two lines of the code to make it centre aligned.
 The changes is shown below.
 
 td.leftalign {
+
     /* padding-right: 4em; */
+    
     text-align: left;
+    
     /* padding-left: 1em; */
+    
 }
