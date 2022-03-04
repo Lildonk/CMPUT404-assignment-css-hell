@@ -31,6 +31,7 @@ Note:
 In 1.html, I deleted two lines of the code to make it centre aligned.
 The changes is shown below.
 
+
 td.leftalign {
 
     /* padding-right: 4em; */
@@ -40,3 +41,4 @@ td.leftalign {
     /* padding-left: 1em; */
     
 }
+
