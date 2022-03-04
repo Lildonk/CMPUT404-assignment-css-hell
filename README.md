@@ -28,8 +28,8 @@ Code is licensed under the Apache 2.0 license.
 Note:
 =================
 
-In 1.html, I deleted two lines of the code to make it centre aligned.
-The changes is shown below.
+In 1.html, I deleted two lines of the code to make it centre aligned, and deleted one line of the code to add the image border.
+The changes are shown below.
 
 
 
@@ -41,4 +41,7 @@ The changes is shown below.
     /* padding-left: 1em; */
     
 
+
+    /* img {border-style: none;
+        }*/
 
